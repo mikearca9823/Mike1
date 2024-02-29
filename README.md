@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Marca.Marca" /><h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+:wave:;+I'm+Michael+Arca!;" />
-</h1><h3 align="center">A passionate software quality engineer from St. Louis</h3><br/><div align="center"> :telescope: I'm currently working on **a sofware development team**
+</h1><h3 align="center">A passionate networking engineerfrom St. Louis</h3><br/><div align="center"> :telescope: I'm currently studying for cybersecurity at Savvy Coders and working on CCNA
  
  🌱 I'm currently learning **sql, Python, AWS**💬 Ask me about **python, bash, or sql... or anything [here](https://github.com/Arca/Learning_coding.git)**⚡ Fun fact **Lego mini-figures have the largest population on Earth!** </div>
  
