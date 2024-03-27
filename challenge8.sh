@@ -9,3 +9,26 @@ while [ 1 = 1 ]
 do 
 ping facebook.com
 done 
+
+x=1
+while [ $x = 1 ]
+do
+    ping 192.168.0.1
+    echo "do you want to run again"
+    read x
+done
+
+
+
+
+
+X=1
+
+echo "Please enter an IP to ping.Format (xxx.xxx.xxx.xxx)"
+read IpAddress
+
+until [ $X = 3 ]
+do
+    ping  $IpAddress
+    ((X++))
+done
