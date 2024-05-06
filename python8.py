@@ -2,7 +2,7 @@
 #  Having counted to five, 
 # the program should print to the screen the final message "Ready or not, here I come!"
 import time
-
+print(time.ctime())
 #Start code below this line:
 for i in range(1, 6):
     print("Mississippi", i)
@@ -10,3 +10,5 @@ for i in range(1, 6):
     time.sleep(1)
 
 print("Ready or not, here I come!")
+
+print(time.strftime("%Y-%m-%d %H:%M:%S"))
